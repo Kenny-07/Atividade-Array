@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\bin\Debug\netcoreapp3.1\Atividade-Array.exe
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\bin\Debug\netcoreapp3.1\Atividade-Array.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\bin\Debug\netcoreapp3.1\Atividade-Array.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\bin\Debug\netcoreapp3.1\Atividade-Array.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\bin\Debug\netcoreapp3.1\Atividade-Array.dll
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\bin\Debug\netcoreapp3.1\Atividade-Array.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\obj\Debug\netcoreapp3.1\Atividade-Array.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\obj\Debug\netcoreapp3.1\Atividade-Array.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\obj\Debug\netcoreapp3.1\Atividade-Array.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\obj\Debug\netcoreapp3.1\Atividade-Array.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\obj\Debug\netcoreapp3.1\Atividade-Array.dll
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\obj\Debug\netcoreapp3.1\Atividade-Array.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Array\obj\Debug\netcoreapp3.1\Atividade-Array.genruntimeconfig.cache
